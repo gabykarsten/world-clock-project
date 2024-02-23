@@ -22,8 +22,9 @@ select {
   font-size: 18px;
 }
 
-a {
+h1 a {
   text-decoration: none;
+  color: black;
 }
 
 .container {
